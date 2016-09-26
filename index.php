@@ -34,7 +34,7 @@ echo "<h2 class='big'>No!</h2>";
 }
 ?>
 <h3><a href="//www.whychristmas.com/customs/whenchristmasiscelebrated.shtml">Find out when, where and why Christmas is celebrated on www.whychristmas.com!</a></h3>
-<p id="foot">* the date detector on this site uses GMT to get the date!<br><br>
+<p class="foot">* the date detector on this site uses GMT to get the date!<br><br>
 &copy;2016 <a href="//thechristmas.expert/">James Cooper</a></p>
 </body>
 </html>
