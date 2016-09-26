@@ -1,0 +1,28 @@
+{
+  "name": "Is It Christmas Today?",
+  "description": "Find out if it's Christmas somewhere in the world today!",
+  "icons": [{
+      "src": "i.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },{
+      "src": "i.svg",
+      "sizes": "144x144",
+      "type": "image/svg+xml"
+    },{
+      "src": "i.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }, {
+      "src": "favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }, {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }],
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#4990E2"
+}
